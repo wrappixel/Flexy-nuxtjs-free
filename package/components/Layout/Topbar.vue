@@ -125,7 +125,7 @@ const preview_link = [
           </v-menu>
           <v-btn
             class="purple-btn text-surface text-h6 font-weight-medium"
-            href="https://www.wrappixel.com/templates/materialm-vuetify-nuxt-js-admin-template/?ref=376#demos"
+            href="https://www.wrappixel.com/templates/flexy-nuxt-js-vuetify-admin-template/?ref=376#demos"
             target="_blank"
           >
             <span class="d-flex ga-2">
